@@ -1,1 +1,1 @@
-web: python quoteBot.py
+worker: python quoteBot.py $PORT
