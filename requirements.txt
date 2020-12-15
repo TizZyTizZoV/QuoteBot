@@ -4,3 +4,14 @@ requests==2.25.0
 beautifulsoup4==4.9.3
 virtualenv==15.1.0
 virtualenv-clone==0.3.0
+appdirs==1.4.3
+certifi==2018.1.18
+Cython==0.23
+Django==1.10.6
+docutils==0.13.1
+packaging==16.8
+psutil==5.0.1
+Pygments==2.2.0
+pyparsing==2.2.0
+python-telegram-bot==7.0.1
+six==1.10.0
